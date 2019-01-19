@@ -16,7 +16,7 @@ In the text file, (2*a)th integer is the right child of the ath  node and (2*a+1
 
 First line of the file: 5 3 1 7 10 12 2
 
-
+![tree](https://user-images.githubusercontent.com/43931498/51431815-ac5a6c00-1c71-11e9-8caf-a2a2dbb25e3b.png)
 
 * Second line of the file:18  
 Result:  

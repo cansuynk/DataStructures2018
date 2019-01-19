@@ -18,22 +18,22 @@ First line of the file: 5 3 1 7 10 12 2
 
 
 
-* Second line of the file:18
-Result:
-Path Found: 5 3 10
-Path Found: 5 1 12
+* Second line of the file:18  
+Result:  
+Path Found: 5 3 10  
+Path Found: 5 1 12  
 
-* Second line of the file:15
-Result:
-Path Found: 5 3 7
-Path Found: No Path Found
+* Second line of the file:15  
+Result:  
+Path Found: 5 3 7  
+Path Found: No Path Found  
  
-* Second line of the file:6
-Result:
-Path Found: No Path Found
-Path Found: 5 1 
+* Second line of the file:6  
+Result:  
+Path Found: No Path Found  
+Path Found: 5 1   
 
-* Second line of the file:22
-Result:
-Path Found: No Path Found
-Path Found: No Path Found
+* Second line of the file:22  
+Result:  
+Path Found: No Path Found  
+Path Found: No Path Found  
